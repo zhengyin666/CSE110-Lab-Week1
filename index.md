@@ -17,7 +17,6 @@ I also like **video games, hiking, driving**
 > "Stay hungry, stay foolish."
 
 ## Quoting Code
-Here is some inline code: `cout << "Hello, world!";`
 
 Here is the code:
 
